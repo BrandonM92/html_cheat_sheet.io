@@ -1,0 +1,34 @@
+   *{
+    font-family: cursive;
+    background-color: lightseagreen;
+   }
+   
+   table {
+       width: 100%;
+       border-collapse: collapse;
+   }
+
+   th,
+   td {
+       border: 1px solid #000000;
+       padding: 8px;
+       text-align: left;
+       background-color: lightgrey;
+   }
+
+   th {
+       background-color: #949494;
+   }
+
+   .highlight {
+       background-color: #b1b1b1c2;
+   }
+
+   h2 {
+    color:lightblue;
+    background-color: black;
+   }
+
+   h1 {
+    font-family: cursive;
+   }
