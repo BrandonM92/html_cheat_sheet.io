@@ -32,3 +32,21 @@
    h1 {
     font-family: cursive;
    }
+
+.link-example {
+    color: blue;
+    text-decoration: underline;
+  }
+.link-example:hover {
+  color: red;
+  text-decoration: none;
+  font-weight: bold;
+}
+.link-example:active {
+  color: green;
+  text-decoration: none;
+}
+.link-example:visited {
+  color: purple;
+  text-decoration: none;
+}
