@@ -50,3 +50,23 @@
   color: purple;
   text-decoration: none;
 }
+
+.button-example {
+  padding: 10px 20px;
+  border: 1px solid #ccc;
+  background-color: #f2f2f2;
+  cursor: pointer;
+}
+
+.button-example:hover {
+  background-color: #e0e0e0;
+}
+
+.button-example:active {
+  background-color: #d1d1d1;
+}
+
+.button-example:focus {
+  outline: none;
+  box-shadow: 0 0 0 3px rgba(0, 0, 0, 0.2);
+}
